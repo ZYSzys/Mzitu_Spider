@@ -3,8 +3,24 @@
 
 ## 依赖环境
 python2.7
-### python 库
-http请求：requests
-图片提取：bs4
-存储相关: os
+### python库
+http请求：requests  
+图片提取：bs4  
+存储相关: os  
 
+## 下载安装
+在终端输入如下命令：
+```bash
+git clone https://github.com/ZYSzys/Mzitu_Spider.git
+```
+
+## 使用方法
+在当前目录下输入：
+```bash
+cd Mzitu_Spider
+python mz.py
+```
+运行爬虫，如图所示
+![](/1.png)
+稍等几分钟后，当前目录下生成Mzitu文件夹，首页每套图以存储在其中
+![](/2.png)
