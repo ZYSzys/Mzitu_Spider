@@ -20,7 +20,7 @@ git clone https://github.com/ZYSzys/Mzitu_Spider.git
 cd Mzitu_Spider
 python mz.py
 ```
-运行爬虫，如图所示
+运行爬虫，如图所示  
 ![](/1.png)
-稍等几分钟后，当前目录下生成Mzitu文件夹，首页每套图以存储在其中
+稍等几分钟后，当前目录下生成Mzitu文件夹，首页每套图以存储在其中  
 ![](/2.png)
