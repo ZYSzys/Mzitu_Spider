@@ -1,6 +1,5 @@
 # Mzitu_Spider
 
-[![Travis CI](https://travis-ci.org/ZYSzys/Mzitu_Spider.svg?branch=master)](https://travis-ci.org/ZYSzys/Mzitu_Spider)
 [![license](https://img.shields.io/github/license/ZYSzys/Mzitu_Spider.svg)](https://github.com/ZYSzys/Mzitu_Spider/blob/master/LICENSE)
 
 对http://www.mzitu.com 进行爬取，下载首页美女图片
@@ -23,6 +22,7 @@ git clone https://github.com/ZYSzys/Mzitu_Spider.git
 在当前目录下输入：
 ```bash
 cd Mzitu_Spider
+pip install -r requirements.txt
 python mz.py
 ```
 运行爬虫，如图所示  
